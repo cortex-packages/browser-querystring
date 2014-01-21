@@ -1,6 +1,6 @@
 {
     "name": "querystring",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A port of 'querystring' for cortex from node.js, make your node code run in browsers.",
     "main": "index.js",
     "scripts": {
@@ -23,10 +23,6 @@
     "license": "MIT",
     "bugs": {
         "querystring": "https://github.com/cortexjs/browser-querystring/issues"
-    },
-    "devDependencies": {
-        "mocha": "~1.13.0",
-        "chai": "~1.8.0"
     },
     "cortex": {
         "dependencies": {
