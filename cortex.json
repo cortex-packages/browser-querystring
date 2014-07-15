@@ -1,5 +1,5 @@
 {
-  "name": "browser-querystring",
+  "name": "querystring",
   "version": "0.1.0",
   "description": "A port of 'querystring' for cortex from node.js, make your node code run in browsers.",
   "main": "index.js",
