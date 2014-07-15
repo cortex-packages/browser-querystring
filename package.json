@@ -11,10 +11,7 @@
         "querystring": "git@github.com:cortexjs/browser-querystring.git"
     },
     "keywords": [
-        "checker",
-        "validator",
-        "validate",
-        "setter"
+        "querystring"
     ],
     "engines": {
         "node": ">=0.8.0"
@@ -23,10 +20,5 @@
     "license": "MIT",
     "bugs": {
         "querystring": "https://github.com/cortexjs/browser-querystring/issues"
-    },
-    "cortex": {
-        "dependencies": {
-            "util": "~1.0.0"
-        }
     }
 }

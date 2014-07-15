@@ -1,0 +1,22 @@
+{
+  "name": "browser-querystring",
+  "version": "0.1.0",
+  "description": "A port of 'querystring' for cortex from node.js, make your node code run in browsers.",
+  "main": "index.js",
+  "repository": "git://github.com/cortex-packages/browser-querystring.git",
+  "keywords": [
+    "querystring"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "ltebean",
+    "email": "yucong1118@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/cortex-packages/browser-querystring/issues"
+  },
+  "homepage": "http://github.com/cortex-packages/browser-querystring",
+  "devDependencies": {
+    "assert": "*"
+  }
+}
